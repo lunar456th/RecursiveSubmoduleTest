@@ -1,0 +1,3 @@
+[submodule "RecursiveSubmoduleTest"]
+	path = RecursiveSubmoduleTest
+	url = https://github.com/lunar456th/RecursiveSubmoduleTest.git
